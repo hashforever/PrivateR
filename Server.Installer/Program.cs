@@ -21,7 +21,7 @@ namespace Server.Installer
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine(AppConstants.RemotelyAscii);
             Console.ForegroundColor = ConsoleColor.Gray;
-            Console.WriteLine("(https://jremote.xyz)");
+            Console.WriteLine("(https://iRemote.xyz)");
             Console.WriteLine();
             Console.WriteLine();
 
@@ -351,10 +351,10 @@ namespace Server.Installer
                 "0 = Caddy on Ubuntu.  1 = Nginx on Ubuntu.  2 = Caddy on CentOS.  3 = Nginx on CentOS.  4 = IIS on Windows Server 2016+.", 1);
 
             ConsoleHelper.WriteLine("Example (build latest release):");
-            ConsoleHelper.WriteLine("sudo ./Remotely_Server_Installer -b false -u lucent-sea -p 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 -s https://www.jremote.xyz-i /var/www/remotely/ -r latest -c true -w 0", 1);
+            ConsoleHelper.WriteLine("sudo ./Remotely_Server_Installer -b false -u lucent-sea -p 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 -s https://www.iRemote.xyz-i /var/www/remotely/ -r latest -c true -w 0", 1);
 
             ConsoleHelper.WriteLine("Example (use pre-built package):");
-            ConsoleHelper.WriteLine("sudo ./Remotely_Server_Installer -b true -s https://www.jremote.xyz-i /var/www/remotely/ -w 0");
+            ConsoleHelper.WriteLine("sudo ./Remotely_Server_Installer -b true -s https://www.iRemote.xyz-i /var/www/remotely/ -w 0");
         }
     }
 }

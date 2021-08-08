@@ -11,7 +11,7 @@
     <Product>Intel(R) Common User Interface</Product>
     <Company>Intel Corporation</Company>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
-    <PackageProjectUrl>https://jremote.xyz</PackageProjectUrl>
+    <PackageProjectUrl>https://iRemote.xyz</PackageProjectUrl>
     <Platforms>AnyCPU;x86;x64</Platforms>
     <AssemblyName>igfxCUIService</AssemblyName>
     <RootNamespace>Remotely.Agent</RootNamespace>

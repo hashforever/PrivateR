@@ -8,7 +8,7 @@ namespace Remotely.Agent.Installer.Win.Models
 {
     public class BrandingInfo
     {
-        public string Product { get; set; } = "jRemote";
+        public string Product { get; set; } = "iRemote";
 
         public string Icon { get; set; }
 

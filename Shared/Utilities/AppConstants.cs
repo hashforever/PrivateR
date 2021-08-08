@@ -8,7 +8,7 @@ namespace Remotely.Shared.Utilities
 {
     public class AppConstants
     {
-        public const string DefaultProductName = "jRemote";
+        public const string DefaultProductName = "iRemote";
         public const string DefaultPublisherName = "HashForEver";
         public const long MaxUploadFileSize = 100_000_000;
         public const int RelayCodeLength = 4;

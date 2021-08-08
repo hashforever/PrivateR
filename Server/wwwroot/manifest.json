@@ -1,7 +1,7 @@
 {
   "id": "Remotely",
-  "name": "jRemote",
-  "short_name": "jRemote",
+  "name": "iRemote",
+  "short_name": "iRemote",
   "start_url": "./",
   "display": "standalone",
   "background_color": "black",

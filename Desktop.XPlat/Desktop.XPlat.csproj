@@ -27,7 +27,7 @@
     <Product>Remotely Desktop</Product>
     <Description>Desktop client for allowing your IT admin to provide remote support.</Description>
     <Copyright>Copyright ©  2021 HashForEver</Copyright>
-    <PackageProjectUrl>https://jremote.xyz</PackageProjectUrl>
+    <PackageProjectUrl>https://iRemote.xyz</PackageProjectUrl>
   </PropertyGroup>
   <ItemGroup>
     <Compile Update="**\*.xaml.cs">
